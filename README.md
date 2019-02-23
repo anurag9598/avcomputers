@@ -1,3 +1,3 @@
 # avcomputers
-my first website
-by writing code using html javascript and css
+
+A simple website by using some of the basic tags and css
